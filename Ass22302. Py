@@ -1,0 +1,7 @@
+list=[]
+n=int(input("enter the n:"))
+for i in range(n)
+      x=int(input())
+       list.append(x)
+for x in range(n-1,-1,-1):
+      print(list[x])
